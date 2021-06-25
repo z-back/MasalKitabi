@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250505184199",
+    "project_id": "projem-17560",
+    "storage_bucket": "projem-17560.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250505184199:android:89423443b8cdefd839cfe2",
+        "android_client_info": {
+          "package_name": "com.example.hakkinda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250505184199-ehhlcqd2vsbh9buedf7d5n146pa3jhp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADjtMFeaAZS3dj7CQZgkWcvIEumJYYGjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250505184199-ehhlcqd2vsbh9buedf7d5n146pa3jhp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
